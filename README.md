@@ -1,12 +1,3 @@
-### Hi there 👋
-
-<!DOCTYPE html>
-  
-</head>
-<body>
-                 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg" alt="Data Science vs. Big Data">
-</body>
-</html>
 
 <h1 align="center">Hi 👋, I'm Md Shakir Nadim</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
