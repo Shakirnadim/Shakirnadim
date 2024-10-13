@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **shakir99nadim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XE5IfCyrYAIwtAOWMoc3JpYqpgRjBLas/view?usp=drive_link](https://drive.google.com/file/d/1XE5IfCyrYAIwtAOWMoc3JpYqpgRjBLas/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XE5IfCyrYAIwtAOWMoc3JpYqpgRjBLas/view?usp=drive_link](https://drive.google.com/file/d/1o8ttv0O51pq9vP9_QzsUYcoP7-78jozN/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
